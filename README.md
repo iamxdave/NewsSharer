@@ -19,6 +19,7 @@ Each client may sign up for the service provider by specifying topics (etc. poli
 <br />
 <br />
 
+__________________________________________________________________________________________________________________
 ## How it works
 
   1. Run admin, server and any number of clients.
@@ -43,6 +44,7 @@ Each client may sign up for the service provider by specifying topics (etc. poli
   5. To remove a topic from the list, pick topic and apply remove button.
   6. To unsubscribe a topic click on an unsubscribe button.
 
+__________________________________________________________________________________________________________________
  ## API meets the following requirements:
   1. Checks if the client is a subscribent of the current topic before refreshing news or for unsubscribing field.
   2. Checks if the chosen topic is in the database and sends appropriate message.
