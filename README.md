@@ -13,6 +13,7 @@ ________________________________________________________________________________
    >
 </p>
 
+<br />
 
 # General information about the application
 Each client may sign up for the service provider by specifying topics (etc. policy, sport, cooking) as well as resign from his existing topics. 
