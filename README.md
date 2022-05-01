@@ -22,6 +22,7 @@ The application enables simultaneous service of many clients. Admininstrator is 
 
 __________________________________________________________________________________________________________________
 <br />
+
 ## How it works
 
   1. Run admin, server and any number of clients.
