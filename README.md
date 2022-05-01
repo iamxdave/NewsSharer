@@ -23,16 +23,17 @@ Each client may sign up for the service provider by specifying topics (etc. poli
 
   1. Run admin, server and any number of clients.
   2. Choose a topic put an information (optional) and click add button in the administartor window.
-  3. Go to client window and write a topic you want to get news about. Click subscribe.
-  4. If additional news are provided click the update button in the admin frame
 <p align="center">
-  <img src=https://user-images.githubusercontent.com/74014874/166154860-8357312e-e5a4-409d-8031-052e0ffc6700.png
+  <img src=https://user-images.githubusercontent.com/74014874/166155180-6a8d06dd-547f-455e-8e55-a60dd90e4fca.png
    >
 </p>
-and then refresh button to refresh content for the client.
-
+  3. Go to client window and write a topic you want to get news about. Click subscribe.
 <p align="center">
-  <br />
+  <img src=https://user-images.githubusercontent.com/74014874/166155215-552c2f93-7596-47f3-9937-b5b40e4fb80f.png
+   >
+</p>
+  4. If additional news are provided click the update button in the admin frame and then refresh button to refresh content for the client.
+<p align="center">
   <img src=https://user-images.githubusercontent.com/74014874/166154892-ad6c42a6-3f14-4abb-af6a-ac3b84918d82.png
    >
 </p>
