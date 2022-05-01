@@ -30,6 +30,7 @@ Each client may sign up for the service provider by specifying topics (etc. poli
    >
 </p>
      and then refresh button to refresh content for the client.
+<br />
 <p align="center">
   <img src=https://user-images.githubusercontent.com/74014874/166154892-ad6c42a6-3f14-4abb-af6a-ac3b84918d82.png
    >
