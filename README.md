@@ -29,11 +29,13 @@ Each client may sign up for the service provider by specifying topics (etc. poli
 </p>
   3. Go to client window and write a topic you want to get news about. Click subscribe.
 <p align="center">
+<br />
   <img src=https://user-images.githubusercontent.com/74014874/166155215-552c2f93-7596-47f3-9937-b5b40e4fb80f.png
    >
 </p>
   4. If additional news are provided click the update button in the admin frame and then refresh button to refresh content for the client.
-<p align="center">
+<p align="center"> 
+<br />
   <img src=https://user-images.githubusercontent.com/74014874/166154892-ad6c42a6-3f14-4abb-af6a-ac3b84918d82.png
    >
 </p>
