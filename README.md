@@ -16,8 +16,10 @@ ________________________________________________________________________________
 <br />
 
 # General information about the application
+<pre>
 Each client may sign up for the service provider by specifying topics (etc. policy, sport, cooking) as well as resign from his existing topics. 
 The application enables simultaneous service of many clients. Admininstrator is a program that sends news to a main server from various fields and he sends them out to interested customers. 
+</pre>
 <br />
 <br />
 
