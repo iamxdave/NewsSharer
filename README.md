@@ -24,7 +24,6 @@ The application enables simultaneous service of many clients. Admininstrator is 
 <br />
 <br />
 <hr>
-__________________________________________________________________________________________________________________
 <br />
 
 ## How it works
