@@ -1,7 +1,7 @@
 # NewsSharer
 Swing application that let you send news to your clients.
 
-__________________________________________________________________________________________________________________
+<hr>
 
 <p align="center">
   <img src=https://user-images.githubusercontent.com/74014874/166149786-f415e370-72d8-4418-bd97-ce9a750ba58c.png
@@ -50,7 +50,7 @@ The application enables simultaneous service of many clients. Admininstrator is 
   5. To remove a topic from the list, pick topic and apply remove button.
   6. To unsubscribe a topic click on an unsubscribe button.
 
-__________________________________________________________________________________________________________________
+<hr>
  ## API meets the following requirements:
   1. Checks if the client is a subscribent of the current topic before refreshing news or for unsubscribing field.
   2. Checks if the chosen topic is in the database and sends appropriate message.
