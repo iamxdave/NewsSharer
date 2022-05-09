@@ -15,7 +15,7 @@ Swing application that let you send news to your clients.
 
 <br />
 
-# General information about the application
+## General information about the application
 <p> 
 Each client may sign up for the service provider by specifying topics (etc. policy, sport, cooking) as well as resign from his existing topics. </br>
 The application enables simultaneous service of many clients. Admininstrator is a program that sends news to a main server from various fields and he sends them out to interested customers. 
@@ -26,7 +26,7 @@ The application enables simultaneous service of many clients. Admininstrator is 
 <hr>
 <br />
 
-## How it works
+## How does it work
 
   1. Run admin, server and any number of clients.
   2. Choose a topic put an information (optional) and click add button in the administartor window.
