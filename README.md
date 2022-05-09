@@ -51,7 +51,6 @@ The application enables simultaneous service of many clients. Admininstrator is 
   6. To unsubscribe a topic click on an unsubscribe button.
 
 <hr>
-<br>
 
  ## API meets the following requirements:
   1. Checks if the client is a subscribent of the current topic before refreshing news or for unsubscribing field.
