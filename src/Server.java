@@ -181,7 +181,7 @@ public class Server {
                 case "subscribe" -> {
                     if(topics.containsKey(topic)) {
                         if (topics.get(topic).contains(sc)) {
-                            sendMessage(sc, "err,Unsubscribe topic in order to subscribe to another");
+                            sendMessage(sc, "err,Already subscribed to the current topic");
                         } else if (topics.containsKey(topic)) {
                             topics.get(topic).add(sc);
 
@@ -195,9 +195,11 @@ public class Server {
                     if(topics.containsKey(topic)) {
                         if (topics.get(topic).contains(sc)) {
                             sendMessage(sc, "refreshack," + news.get(topic));
-                        }
-                    } else {
+                        } else {
                         sendMessage(sc, "err,Subscribe topic first to refresh topic's content");
+                    }
+                    } else {
+                        sendMessage(sc, "err,Topic does not exist");
                     }
 
                 }
